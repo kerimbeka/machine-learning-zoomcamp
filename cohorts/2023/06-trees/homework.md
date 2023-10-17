@@ -22,11 +22,13 @@ The goal of this homework is to create a regression model for predicting housing
 ### Preparing the dataset 
 
 For this homework, we only want to use a subset of data. This is the same subset we used in homework #2.
+But in contrast to homework #2 we are going to use all columns of the dataset.
 
 First, keep only the records where `ocean_proximity` is either `'<1H OCEAN'` or `'INLAND'`
 
 Preparation:
 
+* Fill missing values with zeros.
 * Apply the log tranform to `median_house_value`.
 * Do train/validation/test split with 60%/20%/20% distribution. 
 * Use the `train_test_split` function and set the `random_state` parameter to 1.
