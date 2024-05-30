@@ -5,9 +5,10 @@
 * [Course calendar](https://calendar.google.com/calendar/u/0/r?cid=cGtjZ2tkbGc1OG9yb2lxa2Vwc2g4YXMzMmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&pli=1)
 * [Deadline calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vSkEwMv5OKwCdPfW6LgqQvKk48dZjPcFDrjDstBqZfq38UPadh0Nws1b57qOVYwzAjSufKnVf7umGWH/pubhtml)
 * [FAQ](https://docs.google.com/document/d/1LpPanc33QJJ6BSsyxVg-pWNMplal84TdZtq10naIhD8/edit#)
-* [Leaderboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vSNK_yGtELX1RJK1SSRl4xiUbD0XZMYS6uwHnybc7Mql-WMnMgO7hHSu59w-1cE7FeFZjkopbh684UE/pubhtml)
 * [Course Playlist: Only 2023 Live videos & homeworks](https://www.youtube.com/watch?v=a7phcSmuNY0&list=PL3MmuxUbc_hJo_PzMibLDcEGyazxYAtV0)
-
+* Leaderboard
+  * [Private leaderboad](https://docs.google.com/spreadsheets/d/e/2PACX-1vSNK_yGtELX1RJK1SSRl4xiUbD0XZMYS6uwHnybc7Mql-WMnMgO7hHSu59w-1cE7FeFZjkopbh684UE/pubhtml)
+  * [Public top-100 leaderboard](leaderboard.md)
 
 ### Syllabus
 
@@ -113,6 +114,6 @@
 
 **Competition**
 
-TBA
+[Competition](https://www.kaggle.com/competitions/dtc-zoomcamp-qa-challenge)
 
-Submit your learning in public links [here](https://forms.gle/yBo5rfN1WkSqQ5xj8)
+Submit your progress and learning in public links [here](https://forms.gle/S3bSj7TSKVAcDfjPA)
