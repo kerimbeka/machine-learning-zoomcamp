@@ -31,12 +31,12 @@
 
 We start the course again in September 2024
 
+* 16 September, 17:00 Berlin time
 * [Sign up here](https://airtable.com/shryxwLd0COOEaqXo)
 * Register at [DataTalks.Club](https://DataTalks.Club/slack.html) and join the `#course-ml-zoomcamp` channel 
 * Join the [course telegram channel](https://t.me/mlzoomcamp)
 * Subscribe to the [public google calendar](https://calendar.google.com/calendar/?cid=cGtjZ2tkbGc1OG9yb2lxa2Vwc2g4YXMzMmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) (subscribing works from desktop only)
 * [Tweet about it](https://ctt.ac/XZ6b9)
-* Start date: 16 September 
 * If you have questions, check [FAQ](https://docs.google.com/document/d/1LpPanc33QJJ6BSsyxVg-pWNMplal84TdZtq10naIhD8/edit)
 * All the materials specific to the 2024 will be in [the 2024 cohort folder](./cohorts/2024/) 
 
@@ -258,32 +258,18 @@ Writing an article about something not covered in the course.
 
 For those who love projects!
 
-## [Image classification competition](https://www.kaggle.com/competitions/kitchenware-classification/)
 
-If you liked our deep learning module, join us to build a model for classifying cups, glasses, plates, spoons, forks and knives.
+## Supporters and partners
 
-Submit your learning in public links [here](https://forms.gle/yBo5rfN1WkSqQ5xj8)
+Thanks to the course sponsors for making it possible to run this course
 
-## Previous cohorts
-
-### 2021 Cohort
-
-* [Homeworks](cohorts/2021)
-* [The 100 leaderboard](cohorts/2021/leaderboard.md)
-
-### 2022 Cohort
-
-* [Homeworks](cohorts/2022)
-* [The 100 leaderboard](cohorts/2022/leaderboard.md)
+<p align="center">
+  <a href="https://saturncloud.io/">
+    <img height="120" src="https://github.com/DataTalksClub/llm-zoomcamp/raw/main/images/saturn-cloud.png">
+  </a>
+</p>
 
 
-## Our other courses
-
-If you liked this course, you'll like other courses from us:
-
-* [Data Engineering Zoomcamp - free 9-week course about Data Engineering](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
-* [MLOps Zoomcamp - free 10-week course about MLOps](https://github.com/DataTalksClub/mlops-zoomcamp)
-
-
+Do you want to support our course and our community? Please reach out to [alexey@datatalks.club](alexey@datatalks.club)
 
 
